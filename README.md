@@ -1,20 +1,20 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [Konsole](https://konsole.kde.org)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [Konsole](https://konsole.kde.org).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/sublime.png)
+![Screenshot](./konsole.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [draculatheme.com/konsole](https://draculatheme.com/konsole).
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-[![Harrison Heck](https://avatars0.githubusercontent.com/u/1037526?v=3&s=70)](https://github.com/nesl247) | [![Zeno Rocha](https://avatars2.githubusercontent.com/u/398893?v=3&s=70)](https://github.com/zenorocha)
---- | ---
-[Harrison Heck](https://github.com/nesl247) | [Zeno Rocha](https://github.com/zenorocha)
+[![Rishabh Rao](https://avatars0.githubusercontent.com/u/342789?v=3&s=70)](https://github.com/rishabhsrao) |
+--- |
+[Rishabh Rao](https://github.com/rishabhsrao) |
 
 ## License
 
