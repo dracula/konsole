@@ -2,7 +2,7 @@
 
 > A dark theme for [Konsole](https://konsole.kde.org).
 
-![Screenshot](./konsole.png)
+![Screenshot](https://draculatheme.com/assets/img/screenshots/konsole.png)
 
 ## Install
 
